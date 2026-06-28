@@ -24,6 +24,7 @@ from . import smtp
 from . import ssh
 from . import telnet
 from . import ipp
+from . import irc
 from . import banner
 from . import amqp091
 from . import socks5
